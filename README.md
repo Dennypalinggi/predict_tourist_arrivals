@@ -4,12 +4,12 @@ This is a project to predict the number of foreign tourist arrivals every month 
 ## Packages used
 
 
-#### Web Scraping:
+#### Web Scraping
 * requests
 * beautifulsoup
 * html
 
-#### Data visualization:
+#### Data visualization
 * seaborn
 
 #### Data preprocessing and modeling
